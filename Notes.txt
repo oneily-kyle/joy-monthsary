@@ -1,0 +1,30 @@
+📄 index.html Sections Plan
+Here’s the order the sections will appear on the page:
+
+Intro (Welcome & Animation)
+
+Home (Day Counter + Background Music)
+
+Gallery (Your photos by month)
+
+Letter (Envelope opening animation + message)
+
+Interactive (Quiz or cute surprise)
+
+Secret Message (Reveal section with password or button)
+
+
+🎨 Theme Plan: "Sweet & Dreamy"
+✅ Color Palette:
+Background: linear-gradient(#ffdbe7, #fff) (soft pink to white)
+
+Text: #ffffff or #6b4c7c (lavender for headers)
+
+Accents: #ff9aa2, #ffe0eb, #fbcfe8 (for buttons, petals, highlights)
+
+🖼️ Imagery Style:
+Light/dreamy photos
+
+Pink flower petals or hearts as floating background elements
+
+Soft shadows and rounded corners on all boxes
