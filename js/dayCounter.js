@@ -1,7 +1,7 @@
 const anniversaryDate = new Date("2024-12-25");
 
 function updateCounter() {
-  const today = new Date("2025-6-25"); // Real current date
+  const today = new Date(); // Real current date
 
   // Total days
   const diffTime = today - anniversaryDate;
